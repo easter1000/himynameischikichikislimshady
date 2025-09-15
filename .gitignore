@@ -100,3 +100,6 @@ InitTestScene*.unity*
 
 /.vscode/*
 /Packages/*
+
+.vscode/*
+Packages/*
