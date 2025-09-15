@@ -98,8 +98,16 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
-/.vscode/*
-/Packages/*
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.sln
 
-.vscode/*
-Packages/*
+# Packages
+/[Pp]ackages/*
+# --- But keep these files ---
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
+# If you have packages in git, keep the .gitkeep file
+!/[Pp]ackages/.gitkeep
