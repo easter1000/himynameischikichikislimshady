@@ -95,6 +95,11 @@ InitTestScene*.unity*
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
+/[Aa]ssets/TextMesh Pro
+/[Aa]ssets/TextMesh_Pro
+/[Aa]ssets/TextMesh Pro.meta
+/[Aa]ssets/TextMesh Pro.meta
+
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 

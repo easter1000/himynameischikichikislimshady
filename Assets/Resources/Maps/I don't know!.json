@@ -1,0 +1,15 @@
+{
+    "mapName": "I don't know!",
+    "tiles": [
+        {
+            "q": 0,
+            "r": 0,
+            "tileType": 1
+        },
+        {
+            "q": 1,
+            "r": -1,
+            "tileType": 0
+        }
+    ]
+}

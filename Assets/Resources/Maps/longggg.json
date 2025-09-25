@@ -1,0 +1,55 @@
+{
+    "mapName": "longggg",
+    "tiles": [
+        {
+            "q": 0,
+            "r": 0,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -1,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -2,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -3,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -4,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -5,
+            "tileType": 0
+        },
+        {
+            "q": 0,
+            "r": -6,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -7,
+            "tileType": 0
+        },
+        {
+            "q": 0,
+            "r": -8,
+            "tileType": 1
+        },
+        {
+            "q": 0,
+            "r": -9,
+            "tileType": 0
+        }
+    ]
+}
